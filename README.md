@@ -11,6 +11,7 @@ This project designed to enhance safety and provide immediate assistance in case
   - OpenCV
   - MediaPipe
   - MQTT
+  
 
  <h3>Contributors:</h3>
   - Thomas Nguyen
