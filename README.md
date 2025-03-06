@@ -6,15 +6,16 @@ This project designed to enhance safety and provide immediate assistance in case
 <h3>Requirements:</h3>
  - Camera
  - Raspberry Pi
+ - In order to run the code do pip install -r requirements.txt
 
  <h3>Camera Libraries</h3>
   - OpenCV
   - MediaPipe
   - MQTT
   
-
  <h3>Contributors:</h3>
   - Thomas Nguyen
   - Peter Ngo
   - Kim Tabuzo
   - Dagem Kebede
+
